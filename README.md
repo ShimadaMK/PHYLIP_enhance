@@ -27,4 +27,4 @@ Usage of fasta2tre_bs.bsh
 		# ori.newbv.tre: Name of output tree file in Newick format
 
 See also
-http://dx.doi.org/ 10.1016/j.ympev.2017.02.012
+http://dx.doi.org/10.1016/j.ympev.2017.02.012
